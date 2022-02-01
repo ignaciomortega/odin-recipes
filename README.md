@@ -1,0 +1,1 @@
+En este repositorio se usa el conocimiento adquirido de The Odin Proyect para insertar distintos tipos de elementos basicos en un documento HTML.
